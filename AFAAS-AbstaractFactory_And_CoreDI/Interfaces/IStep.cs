@@ -6,6 +6,7 @@ namespace Interfaces
 {
     public interface IStep
     {
+        string StepKey { get;}
         void executer();
     }
 }

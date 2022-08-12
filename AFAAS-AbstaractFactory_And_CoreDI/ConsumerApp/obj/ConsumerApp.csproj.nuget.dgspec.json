@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj": {}
+    "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj": {}
   },
   "projects": {
-    "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj": {
+    "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
+        "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
         "projectName": "Implimentation",
-        "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
+        "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
         "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
+              "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj": {
+    "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+        "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
         "projectName": "ConsumerApp",
-        "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+        "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
         "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\obj\\",
+        "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
-                "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj"
+              "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
+                "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
+    "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj",
         "projectName": "FacadeLayer",
-        "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj",
+        "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj",
         "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\obj\\",
+        "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,11 +171,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj": {
-                "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj"
+              "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj": {
+                "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj"
               },
-              "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
+              "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-        "outputPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

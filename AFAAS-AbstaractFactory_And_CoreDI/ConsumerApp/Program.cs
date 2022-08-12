@@ -1,11 +1,27 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 using FacadeLayer;
 using Implimentation;
 using Implimentation.Factory;
 using Interfaces;
 using Microsoft.Extensions.DependencyInjection;
+using System;
+using Implimentation;
 
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        public static async Task Main(string[] args)
+        {
+           
 
-Console.WriteLine("AFAAS CONSUMER");
-var container = ContainerBuilder.ConfigService();
-var step = container.GetRequiredService<IStep>();
+            var serviceProvider = new ServiceCollection()
+           .AddSingleton<IFacade,Facade>()
+           .BuildServiceProvider();
+
+            var facade = serviceProvider.GetService<IFacade>();
+            facade.executeFunction();
+
+        }
+    }
+}

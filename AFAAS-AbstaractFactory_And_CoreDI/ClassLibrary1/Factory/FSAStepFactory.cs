@@ -1,30 +1,31 @@
 ﻿using Implimentation.Step;
 using Interfaces;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using static Implimentation.ContainerBuilder;
 
 namespace Implimentation.Factory
 {
-    public class FSAStepFactory : IStepFactory
+    public class FSAStepFactory :IStepFactory
     {
-        private readonly IStep _step;
-        private readonly IServiceProvider serviceProvider;
         public FSAStepFactory()
         {
-           
         }
 
         public void GetSteps(string consumer)
         {
+            var services = new ServiceCollection();
+
+            var stepService = services.AddStepService();
+            var _step = stepService.GetServices<IStep>();
+
             switch (consumer)
             {
                 case "AFAAS":
-                    //  IStep = step1obj
-                    //object.execute();
-
+                    _step.Where(x => x.StepKey == "Step1").FirstOrDefault().executer();
+                    _step.Where(x => x.StepKey == "Step2").FirstOrDefault().executer();
                     break;
                 default:
                     break;

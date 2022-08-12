@@ -259,11 +259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+      "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
       "projectName": "ConsumerApp",
-      "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+      "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
       "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-      "outputPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\obj\\",
+      "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,8 +284,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
-              "projectPath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj"
+            "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj": {
+              "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\FacadeLayer\\FacadeLayer.csproj"
             }
           }
         }

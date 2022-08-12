@@ -1,23 +1,27 @@
-﻿using Implimentation;
-using Implimentation.Factory;
-using Interfaces;
+﻿using Implimentation.Factory;
 using Microsoft.Extensions.DependencyInjection;
 using System;
-using static Implimentation.ContainerBuilder;
 
 namespace FacadeLayer
 {
-    public class Facade
+    public class Facade : IFacade
     {
-    
+
         public Facade()
         {
-            
+
         }
 
-        public void executeFunction()
+        public void executeFunction(string consumer)
         {
+            var services = new ServiceCollection();
+            var stepService = services.AddFactoryService();
+
+            var stepFactory = stepService.GetService<IStepFactory>();
+            stepFactory.GetSteps(consumer);
 
         }
+
+
     }
 }

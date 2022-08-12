@@ -12,7 +12,7 @@ namespace Implimentation
         public delegate IStep StepeResolver(string key);
         public delegate IStepFactory FactoryResolver(string key);
         public void Build()
-        { 
+        {
             ServiceCollection container = new ServiceCollection();
             container.AddScoped<FSAStepFactory>();
             container.AddSingleton<IStep, Step1>();
@@ -22,15 +22,16 @@ namespace Implimentation
         public void getConfiguration()
         {
             ServiceCollection services = new ServiceCollection();
-            services.AddTransient<Func<Consumer, IStep>>(provider => type =>
+
+            services.AddTransient<Func<StepS, IStep>>(provider => type =>
             {
                 switch (type)
                 {
-                    case Consumer.STEP1:
+                    case StepS.STEP1:
                         return provider.GetRequiredService<Step1>();
-                    case Consumer.STEP2:
+                    case StepS.STEP2:
                         return provider.GetRequiredService<Step2>();
-                    case Consumer.STEP3:
+                    case StepS.STEP3:
                         return provider.GetRequiredService<Step2>();
                     default:
                         return provider.GetRequiredService<Step1>();
@@ -39,7 +40,9 @@ namespace Implimentation
         }
     }
 
-    public enum Consumer
+ 
+
+    public enum StepS
     {
         STEP1,
         STEP2,

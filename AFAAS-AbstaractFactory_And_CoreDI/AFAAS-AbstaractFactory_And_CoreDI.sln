@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implimentation", "ClassLibr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{E0A320DC-1B7A-4E6A-8659-B94564B8A58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeLayer", "FacadeLayer\FacadeLayer.csproj", "{37C40578-9F53-44E4-B969-DC01AA23CC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeLayer", "FacadeLayer\FacadeLayer.csproj", "{37C40578-9F53-44E4-B969-DC01AA23CC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerApp", "ConsumerApp\ConsumerApp.csproj", "{F5CE66E1-822B-41A5-A620-916913917092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumerApp", "ConsumerApp\ConsumerApp.csproj", "{F5CE66E1-822B-41A5-A620-916913917092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
