@@ -1,0 +1,15 @@
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\FacadeLayer.deps.json
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\FacadeLayer.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\FacadeLayer.pdb
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\Implimentation.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\Interfaces.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\Implimentation.pdb
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.csproj.AssemblyReference.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.AssemblyInfoInputs.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.AssemblyInfo.cs
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.csproj.CoreCompileInputs.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.csproj.CopyComplete
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\FacadeLayer\obj\Debug\netstandard2.0\FacadeLayer.pdb

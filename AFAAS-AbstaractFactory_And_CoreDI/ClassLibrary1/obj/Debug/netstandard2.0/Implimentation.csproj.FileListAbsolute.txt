@@ -1,0 +1,13 @@
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.AssemblyReference.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.AssemblyInfoInputs.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.AssemblyInfo.cs
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.CoreCompileInputs.cache
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.deps.json
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.pdb
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Interfaces.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Interfaces.pdb
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.CopyComplete
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.dll
+D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.pdb

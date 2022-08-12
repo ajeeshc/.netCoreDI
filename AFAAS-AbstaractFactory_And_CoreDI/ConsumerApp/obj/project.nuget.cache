@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8xbgavo4VLs6h19pn98MjsCxEY7GU9nLTzWM1J4Xkxa0S9uvryrRgqerUX3eZPC3aRODPijs/gBOKnFcgxh8w==",
+  "success": true,
+  "projectFilePath": "D:\\AZ-Container\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
