@@ -8,3 +8,13 @@ D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstanda
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\bin\Debug\netstandard2.0\Interfaces.deps.json
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.AssemblyInfo.cs
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.dll
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\Interfaces\obj\Debug\netstandard2.0\Interfaces.pdb

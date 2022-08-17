@@ -2,6 +2,6 @@
 {
     public interface IFacade
     {
-        void executeFunction(string consumer);
+        void executeFunction(string consumer,string subpractice);
     }
 }

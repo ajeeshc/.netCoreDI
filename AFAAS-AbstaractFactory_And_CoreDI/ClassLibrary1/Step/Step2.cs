@@ -9,7 +9,7 @@ namespace Implimentation.Step
         public string StepKey => "Step2";
         void IStep.executer()
         {
-            Console.WriteLine("Step1 executed");
+            Console.WriteLine("Step2 executed");
         }
     }
 }

@@ -8,24 +8,32 @@ using System.Text;
 
 namespace Implimentation.Factory
 {
-    public class FSAStepFactory :IStepFactory
+    public class FSAStepFactory : IStepFactory
     {
-        public FSAStepFactory()
+        private IEnumerable<IStep> _step;
+        public FSAStepFactory(IEnumerable<IStep> step)
         {
+            _step = step;
         }
 
         public void GetSteps(string consumer)
         {
-            var services = new ServiceCollection();
-
-            var stepService = services.AddStepService();
-            var _step = stepService.GetServices<IStep>();
-
             switch (consumer)
             {
                 case "AFAAS":
-                    _step.Where(x => x.StepKey == "Step1").FirstOrDefault().executer();
-                    _step.Where(x => x.StepKey == "Step2").FirstOrDefault().executer();
+                      _step.Where(x => x.StepKey == "Step1").FirstOrDefault().executer();
+                    if(1==1)
+                        _step.First(o => o.GetType() == typeof(Step2)).executer();
+                        _step.First(o => o.GetType() == typeof(Step2)).executer();
+                    break;
+                case "Normal":
+                    _step.First(o => o.GetType() == typeof(Step2)).executer();
+                    break;
+                case "PREBES":
+                    _step.First(o => o.GetType() == typeof(Step2)).executer();
+                    break;
+                case "POSTBES":
+                    _step.First(o => o.GetType() == typeof(Step2)).executer();
                     break;
                 default:
                     break;

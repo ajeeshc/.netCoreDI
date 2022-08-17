@@ -11,3 +11,16 @@ D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netsta
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.CopyComplete
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.dll
 D:\AZ-Container\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.pdb
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.deps.json
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.dll
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Implimentation.pdb
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.AssemblyReference.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.AssemblyInfoInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.AssemblyInfo.cs
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.CoreCompileInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.csproj.CopyComplete
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.dll
+C:\Users\ajeeshc\Documents\GitHub\AFAAS-AbstaractFactory_And_CoreDI\ClassLibrary1\obj\Debug\netstandard2.0\Implimentation.pdb

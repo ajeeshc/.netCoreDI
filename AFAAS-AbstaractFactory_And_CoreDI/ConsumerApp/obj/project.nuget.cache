@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nz3/NZMWipSkY7nbjdwuJgR1DYsZyjgDEyIf+6ET/b7M1kkFDoU5+2jH734o/zyGECOYRC5KSMF273RiFdxDIQ==",
+  "dgSpecHash": "fgXA+l8TPKYlOEGyeWUjL7EAWV7LjhhKSoNOUC/4npRHgNbqwPC7tp2tDwDLKOuyNyF7BEpV3kamdKwQsqNXOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
+  "projectFilePath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\ConsumerApp\\ConsumerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

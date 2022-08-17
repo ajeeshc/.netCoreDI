@@ -597,11 +597,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
+      "projectUniqueName": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
       "projectName": "Implimentation",
-      "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
+      "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\Implimentation.csproj",
       "packagesPath": "C:\\Users\\ajeeshc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -622,8 +622,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
-              "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
+            "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj"
             }
           }
         }

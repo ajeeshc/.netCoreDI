@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="AbstractFactory.cs" />
     <Compile Remove="ContainerBuilder.cs" />
-    <Compile Remove="Factory\LCWStepFactory.cs" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,19 +1,15 @@
-﻿using Implimentation.Factory;
-using Implimentation.Step;
-using Interfaces;
+﻿using Implimentation;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace FacadeLayer
 {
     public static class StartUp
     {
-        public static IServiceProvider AddFactoryService(this IServiceCollection services)
+        public static IServiceCollection AddFacadeService(this IServiceCollection services)
         {
-            services.AddScoped<IStepFactory, FSAStepFactory>();
-            return services.BuildServiceProvider();
+            services.AddStepService();
+            services.AddScoped<IFacade, Facade>();
+            return services;
         }
     }
 }

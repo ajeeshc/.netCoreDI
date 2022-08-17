@@ -16,11 +16,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
            
 
             var serviceProvider = new ServiceCollection()
-           .AddSingleton<IFacade,Facade>()
+           .AddFacadeService()
            .BuildServiceProvider();
 
             var facade = serviceProvider.GetService<IFacade>();
-            facade.executeFunction();
+            facade.executeFunction("AFAAS","FSA");
 
         }
     }

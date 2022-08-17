@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ygQS7Y8vrLKqWEBHiSr3bhVvUARPSfUCrrrGxAHOqEB0NsH75AA34S/L3wX2LnUV91GpjIziHRgFoRXcSg+LKw==",
+  "dgSpecHash": "4HU393d56DXU2xwCULiyv8SwtwjIYjOw64g5yg3e1fysbca5LDOZDrZH9ZjXNy1pn0X0cGyGvifCEbc1Lq8WFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\.netCoreDI\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\AFAAS-AbstaractFactory_And_CoreDI\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ajeeshc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

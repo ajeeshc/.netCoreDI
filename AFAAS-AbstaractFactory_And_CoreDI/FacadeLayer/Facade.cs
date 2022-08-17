@@ -1,4 +1,5 @@
-﻿using Implimentation.Factory;
+﻿using Implimentation;
+using Implimentation.Factory;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
@@ -7,19 +8,15 @@ namespace FacadeLayer
     public class Facade : IFacade
     {
 
-        public Facade()
+        private IAbstractFactory _abstractFactory;
+        public Facade(IAbstractFactory abstractFactory)
         {
-
+            _abstractFactory = abstractFactory;
         }
 
-        public void executeFunction(string consumer)
+        public void executeFunction(string consumer,string subpractice)
         {
-            var services = new ServiceCollection();
-            var stepService = services.AddFactoryService();
-
-            var stepFactory = stepService.GetService<IStepFactory>();
-            stepFactory.GetSteps(consumer);
-
+            _abstractFactory.excuteFactory(consumer, subpractice); 
         }
 
 
